@@ -1,15 +1,10 @@
-# Rust Notes 🦀
+# Hello world from Rust 🦀
 
-## Commands
+## What is Rust?
+Rust is a systems programming language. What we mean by that?
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Systems programming means creating things like system drivers, databases, Bluetooth/BLE interfaces etc. 
+Systems programming is usually done using C or C++. And it works great but with some problems. 
 
-## Project layout
+![Image title](assets/mark_tweet.png){ align=center }
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files. I am writing my learning journey of rust here.

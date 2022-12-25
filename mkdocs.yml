@@ -2,7 +2,6 @@ site_name: Rust Notes
 theme:
   name: 'material'
   palette:
-
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -19,3 +18,8 @@ theme:
   font:
     code: Roboto Mono
   logo: assets/logo.png
+  features:
+    - navigation.sections
+markdown_extensions:
+  - attr_list
+  - md_in_html
