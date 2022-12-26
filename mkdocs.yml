@@ -23,7 +23,7 @@ theme:
 markdown_extensions:
   - attr_list
   - md_in_html
-copyright: Made with ❤️ in Vancouver
+copyright: Made with ❤️ in Vancouver, Canada 🇨🇦
 extra:
   social:
     - icon: fontawesome/brands/canadian-maple-leaf

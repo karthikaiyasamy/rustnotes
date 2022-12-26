@@ -11,3 +11,4 @@ We will start looking at each of those in the following sections.
 ![Image title](assets/mark_tweet.png){ align=center }
 
 The best way to learn the language is from what we fondly call "The Book", here https://doc.rust-lang.org/book/
+Another fantastic book is "Programming Rust: Fast, Safe Systems Development", 2021 edition specifically.
