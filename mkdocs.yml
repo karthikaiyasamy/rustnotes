@@ -23,9 +23,10 @@ theme:
 markdown_extensions:
   - attr_list
   - md_in_html
+copyright: Made with ❤️ in Vancouver
 extra:
   social:
     - icon: fontawesome/brands/canadian-maple-leaf
       link: https://karthikaiyasamy.github.io/rustnotes/
-      name: rustnotes on Twitter
-copyright: Copyright &copy; 2019 - 2023 Karthik Aiyasamy
+      name: Made in Canada
+
