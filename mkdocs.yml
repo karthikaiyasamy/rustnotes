@@ -36,4 +36,10 @@ extra:
     - pymdownx.inlinehilite
     - pymdownx.snippets
     - pymdownx.superfences
-
+nav:
+   - 'index.md'
+   - 'Rust memory safety.md'
+   - 'Performance.md'
+   - 'Type safety.md'
+   - 'No Billion dollar mistake.md'
+   - 'Fearless concurrency.md'

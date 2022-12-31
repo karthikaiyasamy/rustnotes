@@ -1,4 +1,4 @@
-# Fearless concurrency
+## Fearless concurrency
 
 Rust is a programming language that is designed to enable fearless concurrency, which means that it is designed to make it easy for programmers to write concurrent code that is both safe and efficient.
 
@@ -49,7 +49,7 @@ In this example, we use an `Arc` (atomic reference count) and a `Mutex` to creat
 
 Overall, Rust's support for fearless concurrency makes it a great choice for building concurrent and parallel systems. By providing lightweight threads and safe shared-state concurrency, Rust helps developers write concurrent code that is both efficient and safe.
 
-Additional reading:
+## Additional reading:
 
 Threads, locks, and mutexes are important concepts in concurrent programming, which refers to the execution of multiple threads or processes simultaneously.
 
