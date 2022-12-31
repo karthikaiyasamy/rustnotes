@@ -30,4 +30,10 @@ extra:
     - icon: fontawesome/brands/canadian-maple-leaf
       link: https://karthikaiyasamy.github.io/rustnotes/
       name: Made in Canada
+  markdown_extensions:
+    - pymdownx.highlight:
+        anchor_linenums: true
+    - pymdownx.inlinehilite
+    - pymdownx.snippets
+    - pymdownx.superfences
 
